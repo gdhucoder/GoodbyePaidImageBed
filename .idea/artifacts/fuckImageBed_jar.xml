@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="fuckImageBed:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/fuckImageBed_jar</output-path>
+    <root id="archive" name="fuckImageBed.jar">
+      <element id="module-output" name="fuckImageBed" />
+      <element id="module-source" name="fuckImageBed" />
+      <element id="dir-copy" path="$PROJECT_DIR$/resource" />
+    </root>
+  </artifact>
+</component>

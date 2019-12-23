@@ -1,0 +1,38 @@
+
+
+Implement Steps:
+
+[v] 1 select git image directory
+[v] 2 open dialog
+[x] 3 create thumbnail pictures in the sub directory. [cut]
+[v] 4 show 20 latest thumbnail pictures on buttons
+[v] 5 click one button -> generate a git link to the upload picture
+[v] 6 monitor the image directory,
+[v] 7 at the same time submit it to git repo at back end
+[v] 8 at the same time refresh MainUI buttons to show new image
+[v] 9 open dialog then show the last time status
+[v]10 store user setting, as the same as no.9
+[v]11 git operation
+[v]12 monitor file changes TODO. watch dir
+[v]13 Rename Image File
+[v]14 Generate Gitee link and set it to clipboard
+[v]15 Watch dir add filter, filter specific filename pattern
+[v]16 if new image comes, then generate corresponding button icon
+
+add copyright
+  © 2019 辣么大(GuodongHu).
+  modify popup position to center of the main frame.
+add gitrepo setting
+  textarea, input link
+  save ->  uneditable, ok -> close popup
+  git address: xxx
+  ok       save
+  modify popup position to center of the main frame.
+rename files
+  those are not follow file name pattern, according to create time ascending order date_001
+  such as:Screen Shot 2019-12-04 at 22.21.30.jpg -> 2019-12-04_xxx
+
+[ ]17 TODO add feature delete file and update ui
+[ ]18 fix bug
+[ ]19 as soon as comes a new cap, update main ui.
+
