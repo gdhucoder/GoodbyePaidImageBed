@@ -209,8 +209,7 @@ public class ImageViewerFrame extends JFrame {
     if (dir.isDirectory()) {
       // sorted by last mod time
       List<File> files = Arrays.stream(dir.listFiles()).filter(x -> x.getName().endsWith("jpg"))
-          .sorted((x, y) ->
-              (int) (y.lastModified() - x.lastModified())
+          .sorted((x,y)->Long.compare(y.lastModified(), x.lastModified())
           ).collect(Collectors.toList());
       files = files.subList(0, Math.min(files.size(), 20));
       files.forEach(

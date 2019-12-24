@@ -72,7 +72,7 @@ public class ButtonFrame extends JPanel {
 
     allThumbs.add(thumbButton);
     allThumbs.sort((x, y) ->
-        (int) (y.lastModified - x.lastModified));
+        Long.compare(y.lastModified,x.lastModified));
     allThumbs = allThumbs.subList(0, Math.min(allThumbs.size(), 20));
   }
 
