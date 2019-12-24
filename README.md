@@ -18,6 +18,8 @@ Goodbye Paid ImageBed is a cross platform image uploader tool for FREE image-bed
 
 ## How to use it?
 
+[how to use video on bilibili](https://www.bilibili.com/video/av80439312/)
+
 1. Download source code(compile) or jar
 
 2. Write a shell script, then run the script
