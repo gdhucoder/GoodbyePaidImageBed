@@ -1,7 +1,7 @@
 
-# Say Goodbye Paid Image-bed.
+# Say Goodbye to Paid Image-bed.
 
-GoodbyePaidImageBed is a cross platform image uploader tool for FREE image-bed such as github or gitee.
+Goodbye Paid ImageBed is a cross platform image uploader tool for FREE image-bed such as github or gitee.
 
 - :white_check_mark: Pure Java
 
