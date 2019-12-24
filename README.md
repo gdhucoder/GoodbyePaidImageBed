@@ -44,10 +44,11 @@ java -jar fuckImageBed.jar /Users/gdhu/projects/giteeimagebed/testimagebed https
 5. Your clipboard has the latest uploaded image link
 
 
-## OS supported
+## Work TBD
 
 - :white_check_mark: MacOS
-- :negative_squared_cross_mark: **Windows** TBD
+- :negative_squared_cross_mark: support **Windows** TBD
+- :negative_squared_cross_mark: optimise preview speed
 
 
 
