@@ -3,6 +3,8 @@
 
 GoodbyePaidImageBed is a cross platform image uploader tool for FREE image-bed such as github or gitee.
 
+- :white_check_mark: Pure Java
+
 ## Image Host Supported
 
 - :white_check_mark: GitHub
