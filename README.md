@@ -39,7 +39,7 @@ java -jar fuckImageBed.jar /Users/gdhu/projects/giteeimagebed/testimagebed https
 
 1. Set your built-in image capture tool to save image cap into your local image directory
 
-2. Lunch GoodbyePaidImageBed
+2. Launch GoodbyePaidImageBed
 
 3. Make a capture
 
