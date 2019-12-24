@@ -3,7 +3,9 @@
 
 Goodbye Paid ImageBed is a cross platform image uploader tool for FREE image-bed such as github or gitee.
 
-- :white_check_mark: Pure Java
+- :white_check_mark: Cross Platform
+- :white_check_mark: Light Weight
+- :white_check_mark: Pure Javas
 
 ## Image Host Supported
 
