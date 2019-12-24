@@ -8,11 +8,15 @@ GoodbyePaidImageBed is a cross platform image uploader tool for FREE image-bed s
 - :white_check_mark: GitHub
 - :white_check_mark: Gitee
 
+## Main UI
+
+![preview](https://gitee.com/gdhu/testtingop/raw/master/2019-12-24_000.jpg)
+
 ## How to use it?
 
-1. download source code(compile) or jar
+1. Download source code(compile) or jar
 
-2. write a shell script, then run the script
+2. Write a shell script, then run the script
 
 ```shell script
 java -jar arg1 arg2
@@ -27,11 +31,9 @@ java -jar fuckImageBed.jar /Users/gdhu/projects/giteeimagebed/testimagebed https
 
 ### MacOS
 
-1. set your built-in image capture tool to save image cap into your local image directory
+1. Set your built-in image capture tool to save image cap into your local image directory
 
-2. lunch GoodbyePaidImageBed
-
-![2019-12-24_000.jpg](https://gitee.com/gdhu/testtingop/raw/master/2019-12-24_000.jpg)
+2. Lunch GoodbyePaidImageBed
 
 3. Make a capture
 
@@ -44,14 +46,6 @@ java -jar fuckImageBed.jar /Users/gdhu/projects/giteeimagebed/testimagebed https
 
 - :white_check_mark: MacOS
 - :negative_squared_cross_mark: **Windows** TBD
-
-
-
-
-
-
-
-## 
 
 
 
