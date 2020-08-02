@@ -28,8 +28,7 @@ Goodbye Paid ImageBed is a cross platform image uploader tool for FREE image-bed
 java -jar arg1 arg2
 arg1 is your local image directory github or gitee image repo
 arg2 is your remote github or gitee image repo link
-
-# for example
+# for example收到
 java -jar fuckImageBed.jar /Users/gdhu/projects/giteeimagebed/testimagebed https://gitee.com/gdhu/testtingop/raw/master/
 ```
 
