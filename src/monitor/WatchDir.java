@@ -137,7 +137,7 @@ public class WatchDir {
 
         // if new screen capture comes, rename the image file name
 //        if (kind == ENTRY_CREATE && name.toString().indexOf("Screen Shot") != -1) {
-        if (kind == ENTRY_CREATE && name.toString().indexOf("Screen Shot") != -1) {
+        if (kind == ENTRY_CREATE && name.toString().contains("Screen Shot")) {
           reFormatFileName(child);
         } else if (name.toString().startsWith("2019") || name.toString().startsWith("2020")) {
           submitGitChanges();

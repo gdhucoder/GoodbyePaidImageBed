@@ -12,20 +12,20 @@ import java.util.prefs.Preferences;
  */
 public class AppConfig {
 
-  private static final String date = "YYYY-MM-dd";
+  private static final String date = "yyyy-MM-dd";
   private static final SimpleDateFormat sdf = new SimpleDateFormat(date);
   private static final NumberFormat df = new DecimalFormat("000");
 
   private static final int DEFAULT_WIDTH = 400;
   private static final int DEFAULT_HEIGHT = 400;
 
-  private static AppConfig appConfig = new AppConfig();
+  private static final AppConfig appConfig = new AppConfig();
 
   public static AppConfig getInstance() {
     return appConfig;
   }
 
-  private Window window;
+  private final Window window;
   private String gitRepo;
   private String curDate;
   private String configDate;
